@@ -1,8 +1,8 @@
-/gs/fs/tga-openv/masaruy/general_insertion/object_images/3d_printed_3/hole/7_plus_h.png /gs/fs/tga-openv/masaruy/general_insertion/object_images/3d_printed_3/hole/7_plus_h.mat
-/gs/fs/tga-openv/masaruy/general_insertion/object_images/3d_printed_3/hole/2_hexagon_h.png /gs/fs/tga-openv/masaruy/general_insertion/object_images/3d_printed_3/hole/2_hexagon_h.mat
-/gs/fs/tga-openv/masaruy/general_insertion/object_images/3d_printed_3/hole/4_small_circle_h.png /gs/fs/tga-openv/masaruy/general_insertion/object_images/3d_printed_3/hole/4_small_circle_h.mat
-/gs/fs/tga-openv/masaruy/general_insertion/object_images/3d_printed_3/hole/3_elipse_h.png /gs/fs/tga-openv/masaruy/general_insertion/object_images/3d_printed_3/hole/3_elipse_h.mat
-/gs/fs/tga-openv/masaruy/general_insertion/object_images/3d_printed_3/hole/8_octagon_h.png /gs/fs/tga-openv/masaruy/general_insertion/object_images/3d_printed_3/hole/8_octagon_h.mat
-/gs/fs/tga-openv/masaruy/general_insertion/object_images/3d_printed_3/hole/5_large_circle_h.png /gs/fs/tga-openv/masaruy/general_insertion/object_images/3d_printed_3/hole/5_large_circle_h.mat
-/gs/fs/tga-openv/masaruy/general_insertion/object_images/3d_printed_3/hole/1_rectangle_h.png /gs/fs/tga-openv/masaruy/general_insertion/object_images/3d_printed_3/hole/1_rectangle_h.mat
-/gs/fs/tga-openv/masaruy/general_insertion/object_images/3d_printed_3/hole/6_square_h.png /gs/fs/tga-openv/masaruy/general_insertion/object_images/3d_printed_3/hole/6_square_h.mat
+/spica/spica_home/masaruy/tokkaken/omniglue_Yajima/object_images/3d_printed_3/hole/1_rectangle_h.png /spica/spica_home/masaruy/tokkaken/omniglue_Yajima/object_images/3d_printed_3/hole/1_rectangle_h.mat
+/spica/spica_home/masaruy/tokkaken/omniglue_Yajima/object_images/3d_printed_3/hole/3_elipse_h.png /spica/spica_home/masaruy/tokkaken/omniglue_Yajima/object_images/3d_printed_3/hole/3_elipse_h.mat
+/spica/spica_home/masaruy/tokkaken/omniglue_Yajima/object_images/3d_printed_3/hole/2_hexagon_h.png /spica/spica_home/masaruy/tokkaken/omniglue_Yajima/object_images/3d_printed_3/hole/2_hexagon_h.mat
+/spica/spica_home/masaruy/tokkaken/omniglue_Yajima/object_images/3d_printed_3/hole/7_plus_h.png /spica/spica_home/masaruy/tokkaken/omniglue_Yajima/object_images/3d_printed_3/hole/7_plus_h.mat
+/spica/spica_home/masaruy/tokkaken/omniglue_Yajima/object_images/3d_printed_3/hole/5_large_circle_h.png /spica/spica_home/masaruy/tokkaken/omniglue_Yajima/object_images/3d_printed_3/hole/5_large_circle_h.mat
+/spica/spica_home/masaruy/tokkaken/omniglue_Yajima/object_images/3d_printed_3/hole/4_small_circle_h.png /spica/spica_home/masaruy/tokkaken/omniglue_Yajima/object_images/3d_printed_3/hole/4_small_circle_h.mat
+/spica/spica_home/masaruy/tokkaken/omniglue_Yajima/object_images/3d_printed_3/hole/6_square_h.png /spica/spica_home/masaruy/tokkaken/omniglue_Yajima/object_images/3d_printed_3/hole/6_square_h.mat
+/spica/spica_home/masaruy/tokkaken/omniglue_Yajima/object_images/3d_printed_3/hole/8_octagon_h.png /spica/spica_home/masaruy/tokkaken/omniglue_Yajima/object_images/3d_printed_3/hole/8_octagon_h.mat

@@ -1,8 +1,4 @@
-/gs/fs/tga-openv/masaruy/general_insertion/object_images/3d_printed_2_cropped/hole/7_plus_h.png /gs/fs/tga-openv/masaruy/general_insertion/object_images/3d_printed_2_cropped/hole/7_plus_h.mat
-/gs/fs/tga-openv/masaruy/general_insertion/object_images/3d_printed_2_cropped/hole/2_hexagon_h.png /gs/fs/tga-openv/masaruy/general_insertion/object_images/3d_printed_2_cropped/hole/2_hexagon_h.mat
-/gs/fs/tga-openv/masaruy/general_insertion/object_images/3d_printed_2_cropped/hole/4_small_circle_h.png /gs/fs/tga-openv/masaruy/general_insertion/object_images/3d_printed_2_cropped/hole/4_small_circle_h.mat
-/gs/fs/tga-openv/masaruy/general_insertion/object_images/3d_printed_2_cropped/hole/8_octagon_h.png /gs/fs/tga-openv/masaruy/general_insertion/object_images/3d_printed_2_cropped/hole/8_octagon_h.mat
-/gs/fs/tga-openv/masaruy/general_insertion/object_images/3d_printed_2_cropped/hole/5_large_circle_h.png /gs/fs/tga-openv/masaruy/general_insertion/object_images/3d_printed_2_cropped/hole/5_large_circle_h.mat
-/gs/fs/tga-openv/masaruy/general_insertion/object_images/3d_printed_2_cropped/hole/1_rectangle_h.png /gs/fs/tga-openv/masaruy/general_insertion/object_images/3d_printed_2_cropped/hole/1_rectangle_h.mat
-/gs/fs/tga-openv/masaruy/general_insertion/object_images/3d_printed_2_cropped/hole/3_ellipse_h.png /gs/fs/tga-openv/masaruy/general_insertion/object_images/3d_printed_2_cropped/hole/3_ellipse_h.mat
-/gs/fs/tga-openv/masaruy/general_insertion/object_images/3d_printed_2_cropped/hole/6_square_h.png /gs/fs/tga-openv/masaruy/general_insertion/object_images/3d_printed_2_cropped/hole/6_square_h.mat
+/home/masaruy/tokkaken/EDTER_Yajima/data/object_images/connector_2/peg/1_RJ45_p.png /home/masaruy/tokkaken/EDTER_Yajima/data/object_images/connector_2/peg/1_RJ45_p.mat
+/home/masaruy/tokkaken/EDTER_Yajima/data/object_images/connector_2/peg/2_HDMI_p.png /home/masaruy/tokkaken/EDTER_Yajima/data/object_images/connector_2/peg/2_HDMI_p.mat
+/home/masaruy/tokkaken/EDTER_Yajima/data/object_images/connector_2/peg/3_VGA_p.png /home/masaruy/tokkaken/EDTER_Yajima/data/object_images/connector_2/peg/3_VGA_p.mat
+/home/masaruy/tokkaken/EDTER_Yajima/data/object_images/connector_2/peg/4_Type-C_p.png /home/masaruy/tokkaken/EDTER_Yajima/data/object_images/connector_2/peg/4_Type-C_p.mat
