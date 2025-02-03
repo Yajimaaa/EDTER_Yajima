@@ -143,8 +143,9 @@ class PatchEmbed(nn.Module):
     def forward(self, x):
         B, C, H, W = x.shape  #(1,3,512,512)
         # FIXME look at relaxing size constraints
-        assert H == self.img_size[0] and W == self.img_size[1], \
-            f"Input image size ({H}*{W}) doesn't match model ({self.img_size[0]}*{self.img_size[1]})."
+        # 入力画像のサイズをモデルの期待するサイズに合わせる
+        if (H, W) != self.img_size:
+            x = F.interpolate(x, size=self.img_size, mode='bilinear', align_corners=True)
 
         # x = F.interpolate(x, size=2*x.shape[-1], mode='bilinear', align_corners=True)
         x = self.proj(x) #1,1024,32,32
