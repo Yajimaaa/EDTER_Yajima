@@ -18,8 +18,8 @@ os.environ['MASTER_PORT']='29501'
 
 def parse_args():
     parser = argparse.ArgumentParser(description='mmseg test (and eval) a model')
-    parser.add_argument('--config', type=str, default='configs/bsds/EDTER_BIMLA_320x320_80k_bsds_bs_8.py', help='train config file path')
-    parser.add_argument('--checkpoint', type=str, default='/....Your Path..../XXXXX.pth')
+    parser.add_argument('--config', type=str, default='configs/bsds/EDTER_BIMLA_320x320_80k_bsds_aug_bs_8.py', help='train config file path')
+    parser.add_argument('--checkpoint', type=str, default='pretrain/EDTER-BSDS-VOC-StageI.pth')
     parser.add_argument(
         '--aug-test', action='store_true', help='Use Flip and Multi scale aug')
     parser.add_argument('--out', help='output result file in pickle format')
@@ -45,7 +45,7 @@ def parse_args():
         action='store_true',
         help='whether to use gpu to collect results.')
     parser.add_argument(
-        '--tmpdir', type =str, default='/...Save Path.../results',
+        '--tmpdir', type =str, default='/gs/fs/tga-openv/masaruy/general_insertion/EDTER_Yajima/results',
         help='tmp directory used for collecting results from multiple '
         'workers, available when gpu_collect is not specified')
     parser.add_argument(
