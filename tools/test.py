@@ -45,7 +45,7 @@ def parse_args():
         action='store_true',
         help='whether to use gpu to collect results.')
     parser.add_argument(
-        '--tmpdir', type =str, default='/gs/fs/tga-openv/masaruy/general_insertion/EDTER_Yajima/results',
+        '--tmpdir', type =str, default='./results',
         help='tmp directory used for collecting results from multiple '
         'workers, available when gpu_collect is not specified')
     parser.add_argument(
